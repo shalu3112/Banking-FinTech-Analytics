@@ -641,6 +641,24 @@ The descriptive statistics update based on the selected dashboard filters.
 
 The project includes an interactive Streamlit dashboard for business analysis.
 
+## 🚀 Live Streamlit Dashboard
+
+🔗 **[Open Banking & FinTech Analytics Dashboard](https://banking-fintech-analytics-miz5fptwu2irghrzgd5akb.streamlit.app/)**
+
+The interactive dashboard is deployed using Streamlit Community Cloud.
+
+The dashboard provides:
+
+- Interactive KPI cards
+- Combined dashboard filters
+- Descriptive statistics
+- Customer analytics
+- Accounts and loan analysis
+- Transaction analysis
+- Fraud and risk analysis
+- Customer service analysis
+- Business insights and recommendations
+
 ## Dashboard Sections
 
 ### 📊 Overview / KPIs
